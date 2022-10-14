@@ -1,3 +1,5 @@
+print("RA2211042010034")
+
 startnum = int(input("Enter Number For Multiplication Table: "))
 
 for i in range(1,10+1):
