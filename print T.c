@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main(){
-    print("RA2211042010034")
+    printf("RA2211042010034\n");
 
     printf("* * * * *\n    *    \n    *    \n    *    \n    *    \n");
 }
