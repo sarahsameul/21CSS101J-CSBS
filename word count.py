@@ -1,3 +1,5 @@
+print("RA2211042010034")
+
 text = input("Enter Sentence: ")
 
 textlength = len(text)
