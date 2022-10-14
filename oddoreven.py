@@ -1,5 +1,7 @@
-a =  int(input("enter a number: "))
+print("RA2211042010034")
+
+a =  int(input("Enter a number: "))
 if(a % 2==0 ):
-    print(a,"is a even number")
+    print(a,"is an even number")
 else:
     print(a,"is an odd number")
