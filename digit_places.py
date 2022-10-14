@@ -1,3 +1,5 @@
+print("RA2211042010034")
+
 num = int(input("Enter Number Between 1 and 999: "))
 
 hundreth = num//100
