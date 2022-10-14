@@ -1,3 +1,5 @@
+print("RA2211042010034")
+
 inputstring = ""
 chartofindandreplace = ""
 chartoreplacewith = ""
