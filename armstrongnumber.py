@@ -1,3 +1,5 @@
+print("RA2211042010034")
+
 num = input("Enter a number to check if Armstrong Number: ")
 
 digits = list(num)
